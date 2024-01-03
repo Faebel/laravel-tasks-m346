@@ -18,6 +18,7 @@
     <style>
         body {
             font-family: 'Lato';
+            background-color: grey;
         }
 
         .fa-btn {
@@ -31,8 +32,8 @@
             <div class="navbar-header">
 
                 <!-- Branding Image -->
-                <a class="navbar-brand" href="{{ url('/') }}">
-                    Tasks - Projetarbeit Modul 346 BBZBL
+                <a class="navbar-brand" href="{{ url('/') }}" style="font-family: Arial Black, sans-serif;">
+                    Tasks - Projetarbeit Modul 346
                 </a>
             </div>
 
