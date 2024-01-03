@@ -17,7 +17,7 @@ return new class extends Migration
             $table->timestamp('created_at')->nullable();
 
              // Definiere den Primärschlüssel separat
-            $table->primary('email');
+            //$table->primary('email');
         });
     }
 
