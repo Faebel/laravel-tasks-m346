@@ -41,15 +41,6 @@
 
     @yield('content')
 
-    <div>
-        Diese Web-App basier auf das opensource Laraval Framework Projekt für Webseiten mit Datenbankanbindung mit PHP nach einer angepassten version von Microsoft.
-        <a href="https://learn.microsoft.com/en-us/azure/app-service/tutorial-php-mysql-app">Reccource von Microsoft</a>
-
-    </div>
-    <div>
-        Erstellt wurde dieses Projekt von Fabian Gysin, Jerome Chesworth & Giorgio Basso.
-    </div>
-
     <!-- JavaScripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
