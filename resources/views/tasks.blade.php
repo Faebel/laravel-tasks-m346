@@ -79,15 +79,6 @@
                     Response time: {{ $elapsed * 1000 }} milliseconds.
                 </div>
             </div>
-            <div class="panel panel-default">
-                <div class="panel-body">
-                Diese Web-App basiert auf das Framework Projekt Laraval für Webseiten mit Datenbankanbindung mit PHP nach einer 
-                <a href="https://learn.microsoft.com/en-us/azure/app-service/tutorial-php-mysql-app">angepassten Version von Microsoft</a>.
-                    <div>
-                        Erstellt wurde dieses Projekt von Fabian Gysin, Jerome Chesworth & Giorgio Basso.
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 @endsection
