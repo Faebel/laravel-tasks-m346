@@ -18,6 +18,7 @@
                     die "Originale" URL von Azure: <a href="https://m346-tasks-jfg.azurewebsites.net" target="_blank">m346-tasks-jfg.azurewebsites.net</a>. 
                     Die erste Adresse ist eine eigene subdomain und Domain die Fabian Gysin gehört. der zugriff ist Mit HTTPS verschlüsselt, mit einem gültigen Zertifikat, 
                     automatisch ausgestellt von microsoft Azure.
+                    <br>Der Sourcecode ist <a href="https://github.com/Faebel/laravel-tasks-m346" target="_blank">hier</a> , in einem Github Repository zu finden.
                 </div>
             </div>
 
