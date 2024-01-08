@@ -10,12 +10,13 @@
                 </div>
                 <div class="panel-body">
                     Das Resultat unseres Projekts ist eine Webseite, auf der man sich verschiedene "Tasks" oder Aufgaben, 
-                    in form von kurzen Texten aufschreiebn, speichern und löschen kann. Die Webseite ist von überall und jedem gleich nutzbar, einen 
+                    in form von kurzen Texten aufschreiben, speichern und löschen kann. Die Webseite ist von überall und jedem gleich nutzbar, einen 
                     Konkreten Produktiven Zweck hat diese webseite leider nicht, da Sie für alle das gleiche anzeigt und jeder Tasks kreiren und löschen kann.
                     <br>Diese Webseite und Datenbank wird gehostet auf der Cloudplatform von Microsoft Azure als Web-App mit Datenbank als FaaS. 
-                    Der Zugriff erfolg genz normal über einen Webbrowser über die URL: <a href="https://tasks.kallhof-bl.ch/" target="_blank">tasks.kallhof-bl.ch</a>, oder 
+                    Der Zugriff erfolgt wie auf jede andere Webseite über einen Webbrowser über die URL: 
+                    <a href="https://tasks.kallhof-bl.ch/" target="_blank">tasks.kallhof-bl.ch</a>, oder 
                     die "Originale" URL von Azure: <a href="https://m346-tasks-jfg.azurewebsites.net" target="_blank">m346-tasks-jfg.azurewebsites.net</a>. 
-                    Dies ist eine eigene Adresse und Domain die Fabian Gysin gehört. der zugriff ist Mit HTTPS verschlüsselt, mit einem gültigen Zertifikat, 
+                    Die erste Adresse ist eine eigene subdomain und Domain die Fabian Gysin gehört. der zugriff ist Mit HTTPS verschlüsselt, mit einem gültigen Zertifikat, 
                     automatisch ausgestellt von microsoft Azure.
                 </div>
             </div>
@@ -69,7 +70,7 @@
                     Da wir uns noch nicht sehr gut mit der Cloud und Azure auseinandergesetzt haben, konnten wir einiges Neues lernen. 
                     In diesem Modul haben wir gelernt, wie man mit GitHub eine Webapp auf der Azure Cloud deployen kann und wie man diese Web-App mit 
                     einer Datenbank verbinden kann, damit die Tasks auch nach dem Neuladen der Seite bestehen bleiben. Auch wenn wir das meiste des Programieren 
-                    dem vorgemachten <a href="https://laravel.com/" target="_blank">Laravel Framework</a> überlassen haben, haben wir gelern, 
+                    dem vorgemachten <a href="https://laravel.com/" target="_blank">Laravel Framework</a> überlassen haben, haben wir gelernt, 
                     was PHP ist und wie man es ungefähr verwendet, um eine Webseite zu programieren.
                 </div>
             </div>
