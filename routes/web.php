@@ -69,3 +69,11 @@ Route::delete('/task/{id}', function ($id) {
 
     return redirect('/');
 });
+
+/**
+ * Show Bewertung Page
+ */
+Route::get('/bewertung', function () {
+    // Add logic for 'bewertung' view if needed
+    return view('bewertung');
+})->name('bewertung');
