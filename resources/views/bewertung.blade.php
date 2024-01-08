@@ -9,80 +9,22 @@
                 </div>
 
                 <div class="panel-body">
-                    <!-- Display Validation Errors -->
-                    @include('common.errors')
+                  
+                VPN-zertifizierte Experten sind Fachleute, die über fundierte Kenntnisse und Zertifizierungen im Bereich Virtual Private Networks (VPN) verfügen. Diese Experten haben in der Regel spezifische Schulungen und Prüfungen absolviert, um ihre Fähigkeiten im Entwurf, der Implementierung und dem Management von VPN-Lösungen zu demonstrieren.
 
-                    <!-- New Task Form -->
-                    <form action="/task" method="POST" class="form-horizontal">
-                        {{ csrf_field() }}
+Zertifizierungen im Bereich VPN können von verschiedenen Organisationen und Anbietern stammen, darunter Cisco, CompTIA, und andere. Diese Zertifikate bestätigen, dass die Experten ein tiefgehendes Verständnis für die verschiedenen VPN-Technologien, Protokolle und Sicherheitsaspekte besitzen.
 
-                        <!-- Task Name -->
-                        <div class="form-group">
-                            <label for="task-name" class="col-sm-3 control-label">Task</label>
+VPN-zertifizierte Experten spielen eine entscheidende Rolle in der Gewährleistung der Sicherheit von Unternehmensnetzwerken. Sie sind in der Lage, VPN-Verbindungen zu konfigurieren und zu optimieren, um vertrauliche Daten sicher über unsichere Netzwerke zu übertragen. Darüber hinaus können sie Risiken bewerten, Sicherheitsrichtlinien implementieren und aktuelle Bedrohungen im Zusammenhang mit VPNs identifizieren und beheben.
 
-                            <div class="col-sm-6">
-                                <input type="text" name="name" id="task-name" class="form-control" value="{{ old('task') }}">
-                            </div>
-                        </div>
-
-                        <!-- Add Task Button -->
-                        <div class="form-group">
-                            <div class="col-sm-offset-3 col-sm-6">
-                                <button type="submit" class="btn btn-default">
-                                    <i class="fa fa-btn fa-plus"></i>Add Task
-                                </button>
-                            </div>
-                        </div>
-                    </form>
+Diese Experten tragen dazu bei, die Vertraulichkeit, Integrität und Verfügbarkeit von Unternehmensdaten zu schützen, insbesondere wenn Mitarbeiter von verschiedenen Standorten aus auf das Unternehmensnetzwerk zugreifen müssen. Ihre Fähigkeiten sind entscheidend, um sicherzustellen, dass VPN-Implementierungen den höchsten Sicherheitsstandards entsprechen und den individuellen Anforderungen und Compliance-Vorgaben gerecht werden.
+                   
                 </div>
             </div>
-
-            <!-- Current Tasks -->
-            @if (count($tasks) > 0)
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        Current Tasks
-                    </div>
-
-                    <div class="panel-body">
-                        <table class="table table-striped task-table">
-                            <thead>
-                                <th>Task</th>
-                                <th>&nbsp;</th>
-                            </thead>
-                            <tbody>
-                                @foreach ($tasks as $task)
-                                    <tr>
-                                        <td class="table-text"><div>{{ $task->name }}</div></td>
-
-                                        <!-- Task Delete Button -->
-                                        <td>
-                                            <form action="{{'/task/' . $task->id }}" method="POST">
-                                                {{ csrf_field() }}
-                                                {{ method_field('DELETE') }}
-
-                                                <button type="submit" class="btn btn-danger">
-                                                    <i class="fa fa-btn fa-trash"></i>Delete
-                                                </button>
-                                            </form>
-                                        </td>
-                                    </tr>
-                                @endforeach
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-            @endif
-            <!-- Elapsed time -->
+            
             <div class="panel panel-default">
                 <div class="panel-body">
-                    Response time: {{ $elapsed * 1000 }} milliseconds.
-                </div>
-            </div>
-            <div class="panel panel-default">
-                <div class="panel-body">
-                Diese Web-App basiert auf das Framework Projekt Laraval für Webseiten mit Datenbankanbindung mit PHP nach einer 
-                <a href="https://learn.microsoft.com/en-us/azure/app-service/tutorial-php-mysql-app">angepassten Version von Microsoft</a>.
+                    Diese Web-App basiert auf das Framework Projekt Laravel für Webseiten mit Datenbankanbindung mit PHP nach einer 
+                    <a href="https://learn.microsoft.com/en-us/azure/app-service/tutorial-php-mysql-app">angepassten Version von Microsoft</a>.
                     <div>
                         Erstellt wurde dieses Projekt von Fabian Gysin, Jerome Chesworth & Giorgio Basso.
                     </div>
