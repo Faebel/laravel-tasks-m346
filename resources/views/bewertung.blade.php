@@ -42,11 +42,11 @@
                 </div>
                 <div class="panel-body">
                     Die Arbeitsaufteilung und die Zusammenarbeit hat bei uns in der Gruppe sehr gut funktioniert. Die Zeiteinteilung bei unserem 
-                    Projekt hat auch sehr gut funktioniert und es gab keine Probleme, da wir früh angefangen haben unsere Ideen umzusetzen. 
+                    Projekt hat auch sehr gut funktioniert und es gab keine Probleme, da wir früh angefangen haben unsere Ideen umzusetzen. 
                     Auch das Deployment über GitHub hat immer sehr gut und zuverlässig funktioniert. 
-                    Die Änderungen wurden direkt übernommen und das Ergebnis konnte direkt auf der Webseite angeschaut werden. 
-                    So konnten wir immer wieder kleine Anpassungen machen und schauen, ob es funktioniert hat und ob es uns gefällt. 
-                    So konnten wir schnell und effektiv an unserem Projekt arbeiten.
+                    Die Änderungen wurden direkt übernommen und das Ergebnis konnte direkt auf der Webseite angeschaut werden. 
+                    So konnten wir immer wieder kleine Anpassungen machen und schauen, ob es funktioniert hat und ob es uns gefällt. 
+                    So konnten wir schnell und effektiv an unserem Projekt arbeiten.
                 </div>
             </div>
 
@@ -56,10 +56,10 @@
                 </div>
                 <div class="panel-body">
                     Bei der Umsetzung unseres Projekts gab es immer wieder einzelne Schwierigkeiten. Wir konnten diese jedoch immer zusammen als Team 
-                    und mithilfe vom Internet und KI-Chatbots lösen. 
+                    und mithilfe vom Internet und KI-Chatbots lösen. 
                     Das Framework in Azure zum Funktionieren zu bringen, bereitete uns Schwierigkeiten, 
-                    da bei der Umsetzung nach der Anleitung von Microsoft einige Fehler aufgetaucht sind. Wir mussten eigenständig die Fehler suchen und diese 
-                    korrigieren, was meistens viel Zeit in Anspruch genommen hat.
+                    da bei der Umsetzung nach der Anleitung von Microsoft einige Fehler aufgetaucht sind. Wir mussten eigenständig die Fehler suchen und diese 
+                    korrigieren, was meistens viel Zeit in Anspruch genommen hat.
                 </div>
             </div>
 
@@ -69,11 +69,11 @@
                 </div>
                 <div class="panel-body">
                     Wir haben den Umgang mit Microsoft Azure kennengelernt und konnten anschliessend auch ein eigenständiges Projekt daraus machen. 
-                    Da wir uns noch nicht sehr gut mit der Cloud und Azure auseinandergesetzt haben, konnten wir einiges Neues lernen. 
-                    In diesem Modul haben wir gelernt, wie man mit GitHub eine Webapp auf der Azure Cloud deployen kann und wie man diese Webapp mit 
-                    einer Datenbank verbinden kann, damit die Tasks auch nach dem Neuladen der Seite bestehen bleiben. Auch wenn wir das meiste des Programmierens 
-                    dem vorgemachten <a href="https://laravel.com/" target="_blank">Laravel Framework</a> überlassen haben, haben wir gelernt, 
-                    was PHP ist und wie man es ungefähr verwendet, um eine Webseite zu programmieren.
+                    Da wir uns noch nicht sehr gut mit der Cloud und Azure auseinandergesetzt haben, konnten wir einiges Neues lernen. 
+                    In diesem Modul haben wir gelernt, wie man mit GitHub eine Webapp auf der Azure Cloud deployen kann und wie man diese Webapp mit 
+                    einer Datenbank verbinden kann, damit die Tasks auch nach dem Neuladen der Seite bestehen bleiben. Auch wenn wir das meiste des Programmierens 
+                    dem vorgemachten <a href="https://laravel.com/" target="_blank">Laravel Framework</a> überlassen haben, haben wir gelernt, 
+                    was PHP ist und wie man es ungefähr verwendet, um eine Webseite zu programmieren.
                 </div>
             </div>
 
@@ -83,15 +83,15 @@
                 </div>
                 <div class="panel-body">
                     Das Projekt, an dem wir gearbeitet haben, hat uns eine Menge an neuen Erfahrungen und Kenntnissen vermittelt. 
-                    Mit Stolz würden wir unsere Leistung und das Endergebnis mit einer Note von 5.9 bewerten. 
-                    <br>Dieses Bewertungsergebnis haben wir gewählt, weil wir doch sehr zufrieden sind mit unseren Errungenschaften, wir aber denken, 
-                    dass es noch einige Dinge gäbe, die man an der Webseite anpassen und verbessern könnte. Diese Note spiegelt 
-                    unsere Zufriedenheit mit dem erreichten Ergebnis wider, welches sogar dazu geführt hat, dass wir diese Selbstbewertung und Projektbeschreibung wider
-                    auf dieser Webseite veröffentlichen. Im Verlauf des Projekts haben wir nicht nur gelernt, wie man eine Web-App als 
-                    Function-as-a-Service (FaaS) in der Azure-Umgebung bereitstellt, sondern auch eigenständig herausgefunden, wie die Programmiersprache 
-                    PHP mit einer Datenbank interagiert und wie wir diese Daten anschliessend auf der Webseite anzeigen können. Diese Lernerfahrungen haben 
-                    unser Verständnis für komplexe Web-Entwicklungskonzepte erweitert und uns befähigt, praktische Fähigkeiten zu erlernen, die über den 
-                    Unterricht hinausgehen.
+                    Mit Stolz würden wir unsere Leistung und das Endergebnis mit einer Note von 5.9 bewerten. 
+                    <br>Dieses Bewertungsergebnis haben wir gewählt, weil wir doch sehr zufrieden sind mit unseren Errungenschaften, wir aber denken, 
+                    dass es noch einige Dinge gäbe, die man an der Webseite anpassen und verbessern könnte. Diese Note spiegelt 
+                    unsere Zufriedenheit mit dem erreichten Ergebnis wider, welches sogar dazu geführt hat, dass wir diese Selbstbewertung und Projektbeschreibung wider 
+                    auf dieser Webseite veröffentlichen. Im Verlauf des Projekts haben wir nicht nur gelernt, wie man eine Web-App als 
+                    Function-as-a-Service (FaaS) in der Azure-Umgebung bereitstellt, sondern auch eigenständig herausgefunden, wie die Programmiersprache 
+                    PHP mit einer Datenbank interagiert und wie wir diese Daten anschliessend auf der Webseite anzeigen können. Diese Lernerfahrungen haben 
+                    unser Verständnis für komplexe Web-Entwicklungskonzepte erweitert und uns befähigt, praktische Fähigkeiten zu erlernen, die über den 
+                    Unterricht hinausgehen.
                 </div>
             </div>
 
@@ -104,8 +104,8 @@
                     <a href="https://learn.microsoft.com/en-us/azure/app-service/tutorial-php-mysql-app" target="_blank">angepassten Version von Microsoft</a>.
                     <br>Erstellt wurde dieses Projekt von 
                     <a href="mailto:fabian.gysin@bbzbl-it.ch">Fabian Gysin</a>, 
-                    <a href="jerome.chesworth@bbzbl-it.ch">Jerome Chesworth</a> & 
-                    <a href="giorgio.basso@bbzbl-it.ch">Giorgio Basso</a>.
+                    <a href="mailto:jerome.chesworth@bbzbl-it.ch">Jerome Chesworth</a> & 
+                    <a href="mailto:giorgio.basso@bbzbl-it.ch">Giorgio Basso</a>.
                 </div>
             </div>
 
