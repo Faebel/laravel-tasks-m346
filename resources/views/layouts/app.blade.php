@@ -36,7 +36,7 @@
                     Tasks - Projetarbeit Modul 346
                 </a>
 
-                <a class="navbar-brand" href="{{ url('bewertung') }}" style="font-family: Arial Black, sans-serif;">
+                <a class="navbar-brand" href="{{ url('bewertung') }}" style="font-family: Arial Black, sans-serif; margin-left: 135%;">
                     Bewertung
                 </a>
 
