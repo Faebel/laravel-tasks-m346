@@ -35,6 +35,11 @@
                 <a class="navbar-brand" href="{{ url('/') }}" style="font-family: Arial Black, sans-serif;">
                     Tasks - Projetarbeit Modul 346
                 </a>
+
+                <a class="navbar-brand" href="resources\views\bewertung.blade.php" style="font-family: Arial Black, sans-serif;">
+                    Bewertung
+                </a>
+                
             </div>
 
         </div>
